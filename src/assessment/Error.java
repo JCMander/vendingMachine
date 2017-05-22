@@ -1,4 +1,4 @@
-package test;
+package assessment;
 
 public class Error {
 	
